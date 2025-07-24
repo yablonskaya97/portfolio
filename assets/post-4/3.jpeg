@@ -1,0 +1,510 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WQCH5NFD');</script>
+<!-- End Google Tag Manager -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Сторінку не знайдено &#x2d; НА ЧАСІ</title>
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- The SEO Framework by Sybre Waaijer -->
+<meta name="robots" content="noindex,max-snippet:-1,max-image-preview:none,max-video-preview:-1" />
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://nachasi.kr.ua/#/schema/WebSite","url":"https://nachasi.kr.ua/","name":"НА ЧАСІ","inLanguage":"uk","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://nachasi.kr.ua/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@type":"Organization","@id":"https://nachasi.kr.ua/#/schema/Organization","name":"НА ЧАСІ","url":"https://nachasi.kr.ua/"}},{"@type":"WebPage","name":"Сторінку не знайдено &#x2d; НА ЧАСІ","inLanguage":"uk","isPartOf":{"@id":"https://nachasi.kr.ua/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://nachasi.kr.ua/#/schema/BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":"https://nachasi.kr.ua/","name":"НА ЧАСІ"},{"@type":"ListItem","position":2,"name":"Сторінку не знайдено"}]}}]}</script>
+<!-- / The SEO Framework by Sybre Waaijer | 3.47ms meta | 3.16ms boot -->
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="НА ЧАСІ &raquo; стрічка" href="https://nachasi.kr.ua/feed/" />
+<link rel="alternate" type="application/rss+xml" title="НА ЧАСІ &raquo; Канал коментарів" href="https://nachasi.kr.ua/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/nachasi.kr.ua\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://nachasi.kr.ua/wp-includes/css/dist/block-library/style.min.css?ver=6.8.1' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='safe-svg-svg-icon-style-inline-css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css' href='https://nachasi.kr.ua/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.5.1' media='all' />
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://nachasi.kr.ua/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6' media='all' />
+<link rel='stylesheet' id='trp-language-switcher-style-css' href='https://nachasi.kr.ua/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css?ver=2.9.13' media='all' />
+<link rel='stylesheet' id='ivory-search-styles-css' href='https://nachasi.kr.ua/wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=5.5.11' media='all' />
+<link rel='stylesheet' id='nachasi-style-css' href='https://nachasi.kr.ua/wp-content/themes/nachasi/style.css?ver=1729749897' media='all' />
+<link rel='stylesheet' id='nachasi-cssmain-css' href='https://nachasi.kr.ua/wp-content/themes/nachasi/assets/css/styles.css?ver=1730366158' media='all' />
+<link rel='stylesheet' id='nachasi-font-wix-css' href='https://fonts.googleapis.com/css2?family=Wix+Madefor+Display%3Awght%40400%3B500%3B600%3B700%3B800&#038;display=swap&#038;ver=6.8.1' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css' href='https://nachasi.kr.ua/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1749550592' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css' href='https://nachasi.kr.ua/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1749550592' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css' href='https://nachasi.kr.ua/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1749550592' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css' href='https://nachasi.kr.ua/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1749550592' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://nachasi.kr.ua/wp-includes/css/dashicons.min.css?ver=6.8.1' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css' href='https://nachasi.kr.ua/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1749550592' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='https://nachasi.kr.ua/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css' href='https://nachasi.kr.ua/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2' type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css' href='https://nachasi.kr.ua/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0' type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css' href='https://nachasi.kr.ua/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff' type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css' href='https://nachasi.kr.ua/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.5.1' type='font/woff2' crossorigin />
+<script id="addtoany-core-js-before">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Поділитися",
+	Save: "Зберегти",
+	Subscribe: "Підписатися",
+	Email: "Email",
+	Bookmark: "Закладка",
+	ShowAll: "Показати все",
+	ShowLess: "Показати менше",
+	FindServices: "Знайти сервіс(и)",
+	FindAnyServiceToAddTo: "Миттєвий пошук сервісів",
+	PoweredBy: "Працює на",
+	ShareViaEmail: "Поділитися через електронну пошту",
+	SubscribeViaEmail: "Підпишіться електронною поштою",
+	BookmarkInYourBrowser: "Додати до закладок у браузері",
+	BookmarkInstructions: "Натисніть Ctrl+D або \u2318+D, щоб додати цю сторінку до закладок",
+	AddToYourFavorites: "Додати в закладки",
+	SendFromWebOrProgram: "Відправити з будь-якої адреси електронної пошти або програми електронної пошти",
+	EmailProgram: "Програма електронної пошти",
+	More: "Більше&#8230;",
+	ThanksForSharing: "Дякуємо, що поділились!",
+	ThanksForFollowing: "Дякуємо за підписку!"
+};
+</script>
+<script defer src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script src="https://nachasi.kr.ua/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://nachasi.kr.ua/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script defer src="https://nachasi.kr.ua/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<script src="https://nachasi.kr.ua/wp-content/themes/nachasi/assets/js/main.js?ver=1685970762" id="nachasi-jsmain-js"></script>
+<link rel="https://api.w.org/" href="https://nachasi.kr.ua/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nachasi.kr.ua/xmlrpc.php?rsd" />
+<link rel="alternate" hreflang="uk" href="https://nachasi.kr.ua/wp-content/uploads/2025/06/photo_2025-06-11-15.04.38-1024x768.jpeg"/>
+<link rel="alternate" hreflang="ru-RU" href="https://nachasi.kr.ua/wp-content/uploads/2025/06/photo_2025-06-11-15.04.38-1024x768.jpeg"/>
+<link rel="alternate" hreflang="ru" href="https://nachasi.kr.ua/wp-content/uploads/2025/06/photo_2025-06-11-15.04.38-1024x768.jpeg"/>
+
+<!-- Schema & Structured Data For WP v1.46 - -->
+<script type="application/ld+json" class="saswp-schema-markup-output">
+[{"@context":"https:\/\/schema.org\/","@graph":[{"@context":"https:\/\/schema.org\/","@type":"SiteNavigationElement","@id":"https:\/\/nachasi.kr.ua#Main","name":"\u041a\u0440\u0438\u0432\u0438\u0439 \u0420\u0456\u0433","url":"https:\/\/nachasi.kr.ua\/kryvyj-rig\/"},{"@context":"https:\/\/schema.org\/","@type":"SiteNavigationElement","@id":"https:\/\/nachasi.kr.ua#Main","name":"\u0412\u0456\u0439\u043d\u0430 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456","url":"https:\/\/nachasi.kr.ua\/vijna-v-ukrayini\/"},{"@context":"https:\/\/schema.org\/","@type":"SiteNavigationElement","@id":"https:\/\/nachasi.kr.ua#Main","name":"\u0420\u043e\u0437\u0441\u043b\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044f","url":"https:\/\/nachasi.kr.ua\/rozsliduvannya\/"},{"@context":"https:\/\/schema.org\/","@type":"SiteNavigationElement","@id":"https:\/\/nachasi.kr.ua#Main","name":"\u0412\u0456\u0434\u0435\u043e","url":"https:\/\/nachasi.kr.ua\/video\/"}]}]
+</script>
+
+<link rel="icon" href="https://nachasi.kr.ua/wp-content/uploads/2023/06/logo-footer.svg" sizes="32x32" />
+<link rel="icon" href="https://nachasi.kr.ua/wp-content/uploads/2023/06/logo-footer.svg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://nachasi.kr.ua/wp-content/uploads/2023/06/logo-footer.svg" />
+<meta name="msapplication-TileImage" content="https://nachasi.kr.ua/wp-content/uploads/2023/06/logo-footer.svg" />
+			<style type="text/css">
+		                #is-ajax-search-result-40 .is-ajax-term-label,
+                #is-ajax-search-details-40 .is-ajax-term-label,
+				#is-ajax-search-result-40,
+                #is-ajax-search-details-40 {
+					color: #1a1a1a !important;
+				}
+                        				#is-ajax-search-result-40 a,
+                #is-ajax-search-details-40 a:not(.button) {
+					color: #1a1a1a !important;
+				}
+                #is-ajax-search-details-40 .is-ajax-woocommerce-actions a.button {
+                	background-color: #1a1a1a !important;
+                }
+                        				#is-ajax-search-result-40 .is-ajax-search-post,
+				#is-ajax-search-details-40 .is-ajax-search-post-details {
+				    border-color: #ffffff !important;
+				}
+                #is-ajax-search-result-40,
+                #is-ajax-search-details-40 {
+                    background-color: #ffffff !important;
+                }
+						</style>
+					<style type="text/css">
+					</style>
+		</head>
+
+<body class="error404 wp-custom-logo wp-theme-nachasi translatepress-uk nachasi hfeed">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQCH5NFD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="page" class="site wrapper">
+	<a class="skip-link screen-reader-text" href="#primary">Перейти до вмісту</a>
+    <!--HEADER-->
+    <header class="header header-main">
+        <div class="container">
+            <div class="header__inner">
+
+                <a href="https://nachasi.kr.ua" class="logo">
+                    <img src="https://nachasi.kr.ua/wp-content/themes/nachasi/assets/images/logo.svg" alt="" class="logo__img">
+                </a>
+
+                <nav class="menu main-menu top-menu"><ul id="menu-main" class="menu__list flex-end"><li id="menu-item-37" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37"><a href="https://nachasi.kr.ua/kryvyj-rig/">Кривий Ріг</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="https://nachasi.kr.ua/vijna-v-ukrayini/">Війна в Україні</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="https://nachasi.kr.ua/rozsliduvannya/">Розслідування</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29"><a href="https://nachasi.kr.ua/video/">Відео</a></li>
+</ul></nav>                <!--end menu-->
+
+
+                <div class="right__menu">
+                    <!--social-->
+                    <nav class="social-menu top-menu">
+                        <p> Приєднуйтесь до нас:</p>
+
+                    
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--without-canvas zoom-social-icons-list--round zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/nachasi.kr" target="_blank" title="" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="color" data-hover-color="#BB371A" style="color : #1a1a1a; font-size: 21px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/nachasi.kr/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="color" data-hover-color="#BB371A" style="color : #000000; font-size: 21px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/channel/UCGVHGAMYMaTiOex9TwzBhXA" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="color" data-hover-color="#BB371A" style="color : #1a1a1a; font-size: 21px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/nachasi_news" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="color" data-hover-color="#BB371A" style="color : #1a1a1a; font-size: 21px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.tiktok.com/@nachasi.kr?_t=8dU6yh8OPwr&#038;_r=1" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="color" data-hover-color="#BB371A" style="color : #1a1a1a; font-size: 21px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		                    </nav>
+                    <!--END social-->
+
+                    <!--search-->
+                    <a href="#" id="searchBtn" class="btn btn-search">
+                        <img src="https://nachasi.kr.ua/wp-content/themes/nachasi/assets/images/search-def.svg" alt="search on site" class="search__img">
+                        <img src="https://nachasi.kr.ua/wp-content/themes/nachasi/assets/images/search-hov.svg" alt="search on site" class="search__img">
+                    </a>
+                    <!--END search-->
+                </div>
+
+
+            </div>
+        </div>
+    </header>
+    <!--END HEADER-->
+
+	<main id="primary" class="site-main">
+        <div class="container">
+            <section class="error-404 not-found">
+                <header class="page-header">
+                    <h1 class="page-title">404! Йой, такої сторінки не знайдено.</h1>
+                </header><!-- .page-header -->
+
+                <div class="page-content">
+                    <p>Мабуть цей контент не НА ЧАСІ і пішов відпочивати.</p>
+
+                        
+		<div class="widget widget_recent_entries">
+		<h2 class="widgettitle">Недавні записи</h2>
+		<ul>
+											<li>
+					<a href="https://nachasi.kr.ua/kryvyj-rig/memorialna-doshka-martyshko/">На фасаді криворізької гімназії №33 відкрили меморіальну дошку загиблому воїну</a>
+									</li>
+											<li>
+					<a href="https://nachasi.kr.ua/kryvyj-rig/memorialnykh-stendiv/">У Кривому Розі за 5 млн грн планують замовити майже 600 меморіальних стендів для Алей Слави у кожному районі міста</a>
+									</li>
+											<li>
+					<a href="https://nachasi.kr.ua/kryvyj-rig/rozkradannia-obladnannia-na-300-mln-hrn/">На розкраданні обладнання теплогенеруючого підприємства на 300 млн грн у Кривому Розі попалися його експрацівники</a>
+									</li>
+											<li>
+					<a href="https://nachasi.kr.ua/kryvyj-rig/memorialna-doshka-polehloho-zakhysnyka/">У криворізькій гімназії відкрили меморіальну дошку на честь ще одного полеглого захисника</a>
+									</li>
+											<li>
+					<a href="https://nachasi.kr.ua/kryvyj-rig/memorialnu-doshku-yuriiu-nesterenku/">У Покровському районі встановили меморіальну дошку полеглому герою Юрію Нестеренку</a>
+									</li>
+					</ul>
+
+		</div>
+                        <div class="widget widget_categories">
+                            <h2 class="widget-title">Популярні розділи</h2>
+                            <ul>
+                                	<li class="cat-item cat-item-2"><a href="https://nachasi.kr.ua/kryvyj-rig/">Новини Кривий Ріг</a> (1&nbsp;452)
+</li>
+	<li class="cat-item cat-item-1"><a href="https://nachasi.kr.ua/news/">Новини</a> (442)
+</li>
+	<li class="cat-item cat-item-3"><a href="https://nachasi.kr.ua/vijna-v-ukrayini/">Війна в Україні</a> (238)
+</li>
+	<li class="cat-item cat-item-5"><a href="https://nachasi.kr.ua/video/">Відео</a> (56)
+</li>
+	<li class="cat-item cat-item-4"><a href="https://nachasi.kr.ua/rozsliduvannya/">Розслідування</a> (34)
+</li>
+	<li class="cat-item cat-item-29"><a href="https://nachasi.kr.ua/bez-katehorii-ru/">Без категорії</a> (16)
+</li>
+                            </ul>
+                        </div><!-- .widget -->
+
+                        <div class="widget widget_tag_cloud"><h2 class="widgettitle">Позначки</h2><div class="tagcloud"><a href="https://nachasi.kr.ua/tag/sbu/" class="tag-cloud-link tag-link-84 tag-link-position-1" style="font-size: 8.8974358974359pt;" aria-label="СБУ (19 елементів)">СБУ</a>
+<a href="https://nachasi.kr.ua/tag/ukraina/" class="tag-cloud-link tag-link-20 tag-link-position-2" style="font-size: 12.576923076923pt;" aria-label="Україна (50 елементів)">Україна</a>
+<a href="https://nachasi.kr.ua/tag/biudzhet/" class="tag-cloud-link tag-link-74 tag-link-position-3" style="font-size: 12.217948717949pt;" aria-label="бюджет (46 елементів)">бюджет</a>
+<a href="https://nachasi.kr.ua/tag/vbyvstvo/" class="tag-cloud-link tag-link-88 tag-link-position-4" style="font-size: 8pt;" aria-label="вбивство (15 елементів)">вбивство</a>
+<a href="https://nachasi.kr.ua/tag/viyna/" class="tag-cloud-link tag-link-8 tag-link-position-5" style="font-size: 22pt;" aria-label="війна (574 елементи)">війна</a>
+<a href="https://nachasi.kr.ua/tag/henshtab/" class="tag-cloud-link tag-link-66 tag-link-position-6" style="font-size: 15.179487179487pt;" aria-label="генштаб (100 елементів)">генштаб</a>
+<a href="https://nachasi.kr.ua/tag/heroi/" class="tag-cloud-link tag-link-73 tag-link-position-7" style="font-size: 21.102564102564pt;" aria-label="герої (455 елементів)">герої</a>
+<a href="https://nachasi.kr.ua/tag/deklaratsiia/" class="tag-cloud-link tag-link-254 tag-link-position-8" style="font-size: 8.5384615384615pt;" aria-label="декларація (17 елементів)">декларація</a>
+<a href="https://nachasi.kr.ua/tag/dtp/" class="tag-cloud-link tag-link-67 tag-link-position-9" style="font-size: 13.923076923077pt;" aria-label="дтп (71 елемент)">дтп</a>
+<a href="https://nachasi.kr.ua/tag/dity/" class="tag-cloud-link tag-link-86 tag-link-position-10" style="font-size: 12.666666666667pt;" aria-label="діти (52 елементи)">діти</a>
+<a href="https://nachasi.kr.ua/tag/ekolohiia/" class="tag-cloud-link tag-link-85 tag-link-position-11" style="font-size: 8.2692307692308pt;" aria-label="екологія (16 елементів)">екологія</a>
+<a href="https://nachasi.kr.ua/tag/zakon/" class="tag-cloud-link tag-link-95 tag-link-position-12" style="font-size: 9.2564102564103pt;" aria-label="закон (21 елемент)">закон</a>
+<a href="https://nachasi.kr.ua/tag/zbroia/" class="tag-cloud-link tag-link-56 tag-link-position-13" style="font-size: 9.7948717948718pt;" aria-label="зброя (24 елементи)">зброя</a>
+<a href="https://nachasi.kr.ua/tag/zsu/" class="tag-cloud-link tag-link-51 tag-link-position-14" style="font-size: 19.217948717949pt;" aria-label="зсу (280 елементів)">зсу</a>
+<a href="https://nachasi.kr.ua/tag/kolaboranty/" class="tag-cloud-link tag-link-83 tag-link-position-15" style="font-size: 11.679487179487pt;" aria-label="колаборанти (40 елементів)">колаборанти</a>
+<a href="https://nachasi.kr.ua/tag/komunalnyky/" class="tag-cloud-link tag-link-18 tag-link-position-16" style="font-size: 13.474358974359pt;" aria-label="комунальники (63 елементи)">комунальники</a>
+<a href="https://nachasi.kr.ua/tag/kradizhka/" class="tag-cloud-link tag-link-107 tag-link-position-17" style="font-size: 9.6153846153846pt;" aria-label="крадіжка (23 елементи)">крадіжка</a>
+<a href="https://nachasi.kr.ua/tag/kryvyj-rig/" class="tag-cloud-link tag-link-9 tag-link-position-18" style="font-size: 20.474358974359pt;" aria-label="кривий ріг (386 елементів)">кривий ріг</a>
+<a href="https://nachasi.kr.ua/tag/kryminal/" class="tag-cloud-link tag-link-16 tag-link-position-19" style="font-size: 18.589743589744pt;" aria-label="кримінал (238 елементів)">кримінал</a>
+<a href="https://nachasi.kr.ua/tag/kultura/" class="tag-cloud-link tag-link-233 tag-link-position-20" style="font-size: 9.0769230769231pt;" aria-label="культура (20 елементів)">культура</a>
+<a href="https://nachasi.kr.ua/tag/layfstayl/" class="tag-cloud-link tag-link-19 tag-link-position-21" style="font-size: 9.2564102564103pt;" aria-label="лайфстайл (21 елемент)">лайфстайл</a>
+<a href="https://nachasi.kr.ua/tag/liudy/" class="tag-cloud-link tag-link-12 tag-link-position-22" style="font-size: 12.576923076923pt;" aria-label="люди (50 елементів)">люди</a>
+<a href="https://nachasi.kr.ua/tag/memorialna-doshka/" class="tag-cloud-link tag-link-265 tag-link-position-23" style="font-size: 13.564102564103pt;" aria-label="меморіальна дошка (65 елементів)">меморіальна дошка</a>
+<a href="https://nachasi.kr.ua/tag/mobilizatsiia/" class="tag-cloud-link tag-link-112 tag-link-position-24" style="font-size: 9.8846153846154pt;" aria-label="мобілізація (25 елементів)">мобілізація</a>
+<a href="https://nachasi.kr.ua/tag/miskrada/" class="tag-cloud-link tag-link-80 tag-link-position-25" style="font-size: 14.730769230769pt;" aria-label="міськрада (89 елементів)">міськрада</a>
+<a href="https://nachasi.kr.ua/tag/mitynh/" class="tag-cloud-link tag-link-62 tag-link-position-26" style="font-size: 12.487179487179pt;" aria-label="мітинг (49 елементів)">мітинг</a>
+<a href="https://nachasi.kr.ua/tag/narkotyky/" class="tag-cloud-link tag-link-55 tag-link-position-27" style="font-size: 10.333333333333pt;" aria-label="наркотики (28 елементів)">наркотики</a>
+<a href="https://nachasi.kr.ua/tag/opalennia/" class="tag-cloud-link tag-link-272 tag-link-position-28" style="font-size: 10.512820512821pt;" aria-label="опалення (29 елементів)">опалення</a>
+<a href="https://nachasi.kr.ua/tag/petytsiia/" class="tag-cloud-link tag-link-105 tag-link-position-29" style="font-size: 11.051282051282pt;" aria-label="петиція (34 елементи)">петиція</a>
+<a href="https://nachasi.kr.ua/tag/podii/" class="tag-cloud-link tag-link-23 tag-link-position-30" style="font-size: 18.051282051282pt;" aria-label="події (206 елементів)">події</a>
+<a href="https://nachasi.kr.ua/tag/pozhezha/" class="tag-cloud-link tag-link-68 tag-link-position-31" style="font-size: 12.846153846154pt;" aria-label="пожежа (54 елементи)">пожежа</a>
+<a href="https://nachasi.kr.ua/tag/poloneni/" class="tag-cloud-link tag-link-223 tag-link-position-32" style="font-size: 8pt;" aria-label="полонені (15 елементів)">полонені</a>
+<a href="https://nachasi.kr.ua/tag/politsiia/" class="tag-cloud-link tag-link-93 tag-link-position-33" style="font-size: 15.089743589744pt;" aria-label="поліція (96 елементів)">поліція</a>
+<a href="https://nachasi.kr.ua/tag/pokhovannia/" class="tag-cloud-link tag-link-316 tag-link-position-34" style="font-size: 11.948717948718pt;" aria-label="поховання (43 елементи)">поховання</a>
+<a href="https://nachasi.kr.ua/tag/rayon/" class="tag-cloud-link tag-link-71 tag-link-position-35" style="font-size: 12.038461538462pt;" aria-label="район (44 елементи)">район</a>
+<a href="https://nachasi.kr.ua/tag/raketnyy-udar/" class="tag-cloud-link tag-link-110 tag-link-position-36" style="font-size: 14.551282051282pt;" aria-label="ракетний удар (85 елементів)">ракетний удар</a>
+<a href="https://nachasi.kr.ua/tag/rehion/" class="tag-cloud-link tag-link-22 tag-link-position-37" style="font-size: 11.589743589744pt;" aria-label="регіон (39 елементів)">регіон</a>
+<a href="https://nachasi.kr.ua/tag/remont/" class="tag-cloud-link tag-link-229 tag-link-position-38" style="font-size: 11.5pt;" aria-label="ремонт (38 елементів)">ремонт</a>
+<a href="https://nachasi.kr.ua/tag/rozsliduvannya/" class="tag-cloud-link tag-link-76 tag-link-position-39" style="font-size: 12.666666666667pt;" aria-label="розслідування (51 елемент)">розслідування</a>
+<a href="https://nachasi.kr.ua/tag/sport/" class="tag-cloud-link tag-link-21 tag-link-position-40" style="font-size: 8pt;" aria-label="спорт (15 елементів)">спорт</a>
+<a href="https://nachasi.kr.ua/tag/sud/" class="tag-cloud-link tag-link-234 tag-link-position-41" style="font-size: 13.833333333333pt;" aria-label="суд (69 елементів)">суд</a>
+<a href="https://nachasi.kr.ua/tag/suspilstvo/" class="tag-cloud-link tag-link-15 tag-link-position-42" style="font-size: 14.641025641026pt;" aria-label="суспільство (87 елементів)">суспільство</a>
+<a href="https://nachasi.kr.ua/tag/tender/" class="tag-cloud-link tag-link-90 tag-link-position-43" style="font-size: 15.538461538462pt;" aria-label="тендер (109 елементів)">тендер</a>
+<a href="https://nachasi.kr.ua/tag/teplotsentral/" class="tag-cloud-link tag-link-221 tag-link-position-44" style="font-size: 9.2564102564103pt;" aria-label="теплоцентраль (21 елемент)">теплоцентраль</a>
+<a href="https://nachasi.kr.ua/tag/shakhraystvo/" class="tag-cloud-link tag-link-69 tag-link-position-45" style="font-size: 10.512820512821pt;" aria-label="шахрайство (29 елементів)">шахрайство</a></div>
+</div>
+                </div><!-- .page-content -->
+            </section><!-- .error-404 -->
+        </div>
+	</main><!-- #main -->
+
+
+<!--FOOTER-->
+<footer class="footer">
+
+    <div class="container">
+        <a href="/" class="footer__logo">
+            <img src="https://nachasi.kr.ua/wp-content/themes/nachasi/assets/images/logo-footer.svg" alt="" class="logo__img">
+        </a>
+        <div class="footer__top">
+ 
+            <nav class="menu footer-menu menu-right"><ul id="menu-main-1" class="menu__list flex-end"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37"><a href="https://nachasi.kr.ua/kryvyj-rig/">Кривий Ріг</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="https://nachasi.kr.ua/vijna-v-ukrayini/">Війна в Україні</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="https://nachasi.kr.ua/rozsliduvannya/">Розслідування</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29"><a href="https://nachasi.kr.ua/video/">Відео</a></li>
+</ul></nav>
+            <nav class="menu footer-menu menu-left"><ul id="menu-footer-small" class="menu__list flex-end"><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="https://nachasi.kr.ua/contacts/">Контакти</a></li>
+<li id="menu-item-1407" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher current-language-menu-item menu-item-1407"><a href="https://nachasi.kr.ua/wp-content/uploads/2025/06/photo_2025-06-11-15.04.38-1024x768.jpeg"><span data-no-translation><span class="trp-ls-language-name">RU</span></span></a></li>
+</ul></nav>
+            
+        </div>
+        <div class="footer__bottom">
+            <p class="copy">© 2023-2024 Онлайн-медіа НА ЧАСІ. Всі права захищені. Редакція може не розділяти точку зору автора.</p>
+            <!--social-->
+            <nav class="social-menu bottom-menu">
+                <p> Приєднуйтесь до нас:</p>
+                
+		
+<ul class="zoom-social-icons-list zoom-social-icons-list--without-canvas zoom-social-icons-list--round zoom-social-icons-list--no-labels">
+
+		
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.facebook.com/nachasi.kr" target="_blank" title="Facebook" >
+									
+						<span class="screen-reader-text">facebook</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="color" data-hover-color="#BB371A" style="color : #ffffff; font-size: 23px; padding:3px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.instagram.com/nachasi.kr/" target="_blank" title="Instagram" >
+									
+						<span class="screen-reader-text">instagram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="color" data-hover-color="#BB371A" style="color : #ffffff; font-size: 23px; padding:3px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.youtube.com/channel/UCGVHGAMYMaTiOex9TwzBhXA" target="_blank" title="" >
+									
+						<span class="screen-reader-text">youtube</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="color" data-hover-color="#BB371A" style="color : #ffffff; font-size: 23px; padding:3px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://t.me/nachasi_news" target="_blank" title="" >
+									
+						<span class="screen-reader-text">telegram</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-telegram" data-hover-rule="color" data-hover-color="#BB371A" style="color : #ffffff; font-size: 23px; padding:3px" ></span>
+			
+					</a>
+	</li>
+
+	
+				<li class="zoom-social_icons-list__item">
+		<a class="zoom-social_icons-list__link" href="https://www.tiktok.com/@nachasi.kr?_t=8dU6yh8OPwr&#038;_r=1" target="_blank" title="" >
+									
+						<span class="screen-reader-text">tiktok</span>
+			
+						<span class="zoom-social_icons-list-span social-icon socicon socicon-tiktok" data-hover-rule="color" data-hover-color="#BB371A" style="color : #ffffff; font-size: 23px; padding:3px" ></span>
+			
+					</a>
+	</li>
+
+	
+</ul>
+
+		
+            </nav>
+            <!--END social-->
+        </div>
+    </div>
+</footer>
+<!--END FOOTER-->
+
+<!--POPUP-->
+<section class="popup__search">
+    <div class="popup__search-wrapper">
+        <a href="#" class="close__btn" id="close__btn"><img src="https://nachasi.kr.ua/wp-content/themes/nachasi/assets/images/close.svg" alt=""></a>
+        <h2 class="title-text">
+            Що будемо шукати?
+        </h2>
+        <form data-min-no-for-search=3 data-result-box-max-height=400 data-form-id=40 class="is-search-form is-form-style is-form-style-3 is-form-id-40 is-ajax-search" action="https://nachasi.kr.ua/" method="get" role="search" ><label for="is-search-input-40"><span class="is-screen-reader-text">Шукати:</span><input  type="search" id="is-search-input-40" name="s" value="" class="is-search-input" placeholder="ЗНАЙТИ ..." autocomplete=off /><span class="is-loader-image" style="display: none;background-image:url(https://nachasi.kr.ua/wp-content/plugins/add-search-to-menu/public/images/spinner.gif);" ></span></label><button type="submit" class="is-search-submit"><span class="is-screen-reader-text">Кнопка пошуку</span><span class="is-search-icon"><svg focusable="false" aria-label="Пошук" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24px"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg></span></button><input type="hidden" name="id" value="40" /></form>
+        <div class="search-result">
+
+        </div>
+    </div>
+</section>
+<!--END POPUP-->
+</div>
+
+<template id="tp-language" data-tp-language="uk"></template><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/nachasi\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<form data-min-no-for-search=3 data-result-box-max-height=400 data-form-id=40 class="is-search-form is-form-style is-form-style-3 is-form-id-40 is-ajax-search" action="https://nachasi.kr.ua/" method="get" role="search" ><label for="is-search-input-40"><span class="is-screen-reader-text">Шукати:</span><input  type="search" id="is-search-input-40" name="s" value="" class="is-search-input" placeholder="ЗНАЙТИ ..." autocomplete=off /><span class="is-loader-image" style="display: none;background-image:url(https://nachasi.kr.ua/wp-content/plugins/add-search-to-menu/public/images/spinner.gif);" ></span></label><button type="submit" class="is-search-submit"><span class="is-screen-reader-text">Кнопка пошуку</span><span class="is-search-icon"><svg focusable="false" aria-label="Пошук" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24px"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg></span></button><input type="hidden" name="id" value="40" /></form><link rel='stylesheet' id='ivory-ajax-search-styles-css' href='https://nachasi.kr.ua/wp-content/plugins/add-search-to-menu/public/css/ivory-ajax-search.min.css?ver=5.5.11' media='all' />
+<script src="https://nachasi.kr.ua/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="https://nachasi.kr.ua/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src="https://nachasi.kr.ua/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.6" id="swv-js"></script>
+<script id="contact-form-7-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-06-08 22:02:41+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);","lang":"uk_UA"},"This contact form is placed in the wrong place.":["\u0426\u044f \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u043d\u0430 \u0444\u043e\u0440\u043c\u0430 \u0440\u043e\u0437\u043c\u0456\u0449\u0435\u043d\u0430 \u0432 \u043d\u0435\u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u043c\u0443 \u043c\u0456\u0441\u0446\u0456."],"Error:":["\u041f\u043e\u043c\u0438\u043b\u043a\u0430:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+</script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/nachasi.kr.ua\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+</script>
+<script src="https://nachasi.kr.ua/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6" id="contact-form-7-js"></script>
+<script src="https://nachasi.kr.ua/wp-content/themes/nachasi/js/navigation.js?ver=1.0.0" id="nachasi-navigation-js"></script>
+<script src="https://nachasi.kr.ua/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1749550592" id="zoom-social-icons-widget-frontend-js"></script>
+<script id="ivory-search-scripts-js-extra">
+var IvorySearchVars = {"is_analytics_enabled":"1"};
+</script>
+<script src="https://nachasi.kr.ua/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=5.5.11" id="ivory-search-scripts-js"></script>
+<script id="ivory-ajax-search-scripts-js-extra">
+var IvoryAjaxVars = {"ajaxurl":"https:\/\/nachasi.kr.ua\/wp-admin\/admin-ajax.php","ajax_nonce":"b2131d6ea4"};
+</script>
+<script src="https://nachasi.kr.ua/wp-content/plugins/add-search-to-menu/public/js/ivory-ajax-search.min.js?ver=5.5.11" id="ivory-ajax-search-scripts-js"></script>
+
+</body>
+</html>
+
+
+<!-- Page supported by LiteSpeed Cache 7.1 on 2025-06-30 18:01:51 -->
